@@ -3,8 +3,6 @@ Web Portfolio to showcase projects and skills in better manner.
 
 
 ###### https://github.com/satyakiran29/me
-
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
